@@ -1,2 +1,2 @@
 # RealTimeChat-With-UFOs-2026
-This Project is under Asp.Net Core &amp; create a chatRoom that user insert name and her/his message and send it and when the user exit the chat, an alert appear on the chatroom 
+💬 Real-Time Chat Application built with ASP.NET Core and SignalR. Users can enter their name and send messages that are instantly displayed to all connected clients without refreshing the page. The system also detects user disconnections and shows an offline status notification in real time, providing a smooth and interactive chat experience.
